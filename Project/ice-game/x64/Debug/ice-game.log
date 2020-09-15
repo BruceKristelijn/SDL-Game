@@ -1,0 +1,9 @@
+﻿  Level.cpp
+c:\users\bruce kristelijn\documents\c++ projects\ice-game\ice-game\level.cpp(13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bruce kristelijn\documents\c++ projects\ice-game\ice-game\level.cpp(14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bruce kristelijn\documents\c++ projects\ice-game\ice-game\level.cpp(42): warning C4129: 'L': unrecognized character escape sequence
+  LevelManager.cpp
+  Tile.cpp
+  ice-game.cpp
+  Generating Code...
+  ice-game.vcxproj -> C:\Users\Bruce kristelijn\Documents\C++ Projects\ice-game\x64\Debug\ice-game.exe

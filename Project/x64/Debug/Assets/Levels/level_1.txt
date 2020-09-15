@@ -1,0 +1,24 @@
+xxxxxxxxxxxxxxxxxxxx
+xxssxsssssssssssxxxx
+xwwwswwwwswwwwswxwxx
+xsssssswwswwwwswxxxx
+xswwswswwsswswswswsx
+xswwswswwswwssssswsx
+xswwswswwswwwwswwwsx
+xswwswswwswwsssxwwsx
+xswwswswwswwswswwwsx
+xsssssssssssswsswwsx
+xwwwwwswwwwwwwsssssx
+xsssssxssssswssswwsx
+xwwwwwwwwssswssswwsx
+xxsssssssswwwssswwsx
+xswwsssssswxxssswwsx
+xswsssswsswswwswwwsx
+xswssssssssssssssssx
+xswwwwwwwwwswwswwwwx
+xxsssssssssxwwssss%x
+xxxxxxxxxxxxxxxxxxxx
+
+x = Normal
+s = slide
+w = wall
